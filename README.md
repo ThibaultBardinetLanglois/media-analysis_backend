@@ -57,7 +57,7 @@ media-analysis-backend
 1 - git commit -m "feat(init): bootstrap FastAPI project with Docker, PostgreSQL, pgAdmin and healthcheck"
 2 - git commit -m "feat(config): add settings management and database configuration"
 3 - git commit -m "feat(media): add media domain model and repository layer"
-4 - git commit -m "feat(upload): implement media upload endpoint"
+4 - git commit -m "feat(upload): implement media upload endpoint, treat security around the upload and install debug configuration in order to work with the debugger in debug mode"
 5 - git commit -m "feat(processors): introduce processor strategy architecture for text, image, audio, and video"
 6 - git commit -m "feat(text-processing): implement text file processing and keyword extraction"
 7 - git commit -m "feat(search): implement keyword search endpoint"
